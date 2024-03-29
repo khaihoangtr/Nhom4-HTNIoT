@@ -1,0 +1,6 @@
+../Src/main.c:44:5:main	3
+../Src/main.c:71:8:delay	2
+../Src/main.c:82:15:buzzer_Init	1
+../Src/main.c:111:15:button_Init	1
+../Src/main.c:142:15:buzzerControlSetStatus	3
+../Src/main.c:160:13:buttonReadStatus	2

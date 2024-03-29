@@ -1,0 +1,13 @@
+D:/thuVien/Src file/stm32f401re_gpio.c:63:6:GPIO_Init	5
+D:/thuVien/Src file/stm32f401re_gpio.c:103:6:GPIO_StructInit	1
+D:/thuVien/Src file/stm32f401re_gpio.c:126:6:GPIO_PinLockConfig	1
+D:/thuVien/Src file/stm32f401re_gpio.c:169:9:GPIO_ReadInputDataBit	2
+D:/thuVien/Src file/stm32f401re_gpio.c:191:10:GPIO_ReadInputData	1
+D:/thuVien/Src file/stm32f401re_gpio.c:206:9:GPIO_ReadOutputDataBit	2
+D:/thuVien/Src file/stm32f401re_gpio.c:228:10:GPIO_ReadOutputData	1
+D:/thuVien/Src file/stm32f401re_gpio.c:245:6:GPIO_SetBits	1
+D:/thuVien/Src file/stm32f401re_gpio.c:262:6:GPIO_ResetBits	1
+D:/thuVien/Src file/stm32f401re_gpio.c:280:6:GPIO_WriteBit	2
+D:/thuVien/Src file/stm32f401re_gpio.c:300:6:GPIO_Write	1
+D:/thuVien/Src file/stm32f401re_gpio.c:313:6:GPIO_ToggleBits	1
+D:/thuVien/Src file/stm32f401re_gpio.c:393:6:GPIO_PinAFConfig	1
